@@ -1,5 +1,6 @@
 # AquaSyntaxAutoclicker
-Little keybind autoclicker I made
+Little keybind autoclicker I made. 
+
 Please enter a keybind to enable autoclicker when pressed.
 Please use a letter key. Capitalized letters
 and lowercase letters do not make a difference, but
