@@ -15,3 +15,6 @@ Please note that we cannot garuntee any keys
 other than letter keys will work.
 
 Thank you for using AquaSyntax Autoclicker!
+
+
+please be aware, however, that it always runs until you close it.
